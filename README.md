@@ -1,1 +1,1 @@
-shapeless-workshop
+Code from https://github.com/underscoreio/shapeless-guide
